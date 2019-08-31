@@ -1,1 +1,2 @@
-# practica-03-AdrianAlfonzo
+# Guía Practica 3: Programación Estructurada
+© AA - 2019
