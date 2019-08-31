@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\TRES\Guia3\bin\Debug\Guia3.exe.config
+C:\Users\luisa\source\repos\TRES\Guia3\bin\Debug\Guia3.exe
+C:\Users\luisa\source\repos\TRES\Guia3\bin\Debug\Guia3.pdb
+C:\Users\luisa\source\repos\TRES\Guia3\obj\Debug\Guia3.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\TRES\Guia3\obj\Debug\Guia3.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\TRES\Guia3\obj\Debug\Guia3.exe
+C:\Users\luisa\source\repos\TRES\Guia3\obj\Debug\Guia3.pdb
